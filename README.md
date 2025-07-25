@@ -138,7 +138,7 @@ Hi, I'm Mangesh Ramsajivan Kanaujiya
 GitHub: https://github.com/mangeshkanaujiya 
 
 
-LinkedIn:  in/mangesh-kanaujiya-0438bb2a5
+LinkedIn:  https://www.linkedin.com/in/mangesh-kanaujiya-0438bb2a5
 
 
 
