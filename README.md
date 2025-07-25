@@ -131,8 +131,8 @@ First-Year-Java-Projects/
 🙋‍♂️ About Me
 Hi, I'm Mangesh Ramsajivan Kanaujiya 
 📫 Connect With Me:
-GitHub: @mangeshkanaujiya
-LinkedIn: linkedin.com/in/mangesh-kanaujiya
+GitHub: https://github.com/mangeshkanaujiya 
+LinkedIn:  in/mangesh-kanaujiya-0438bb2a5
 
 
 
