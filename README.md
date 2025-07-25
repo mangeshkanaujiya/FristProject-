@@ -37,9 +37,8 @@ A Java application that converts Indian Rupees (INR) to other currencies like US
 javac Currency_Converter.java
 java Currency_Converter
 
-```bash
 
-##32. 🎓 Grade Calculator
+##2. 🎓 Grade Calculator
 📌 Description
 This Java program takes the total marks and average percentage from the user, calculates the obtained marks, and assigns a grade (A to F) based on the percentage.
 
@@ -129,10 +128,9 @@ First-Year-Java-Projects/
 └── README.md
 
 
-
-
 👨‍🎓 Author
 Mangesh Ramsajivan Kanaujiya
 
 
 
+```bash
