@@ -37,6 +37,7 @@ A Java application that converts Indian Rupees (INR) to other currencies like US
 javac Currency_Converter.java
 java Currency_Converter
 
+```bash
 
 ##32. 🎓 Grade Calculator
 📌 Description
@@ -127,7 +128,7 @@ First-Year-Java-Projects/
 ├── guessingNumberGame.java
 └── README.md
 
-```bash
+
 
 
 👨‍🎓 Author
