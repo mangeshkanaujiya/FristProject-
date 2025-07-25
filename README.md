@@ -128,8 +128,12 @@ First-Year-Java-Projects/
 └── README.md
 
 
-👨‍🎓 Author
-Mangesh Ramsajivan Kanaujiya
+🙋‍♂️ About Me
+Hi, I'm Mangesh Ramsajivan Kanaujiya 
+📫 Connect With Me:
+GitHub: @mangeshkanaujiya
+LinkedIn: linkedin.com/in/mangesh-kanaujiya
+
 
 
 
